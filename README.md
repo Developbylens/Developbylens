@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Felix Ramos Candelario 👋
 
-<!--
-**Developbylens/Developbylens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Technology professional focused on AI-assisted software development, product architecture, workflow automation, and scalable business systems.
 
-Here are some ideas to get you started:
+## Current Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- Artificial Intelligence
+- Software Engineering
+- Product Architecture
+- Workflow Automation
+- Human-AI Collaboration
+
+## Currently Building
+
+- AI-powered SaaS applications
+- Workflow automation platforms
+- Enterprise software solutions
+
+## Tech
+
+Claude • ChatGPT • JavaScript • TypeScript • Python (Learning) • GitHub • HTML • CSS
 -->
