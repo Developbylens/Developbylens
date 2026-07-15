@@ -12,11 +12,22 @@ Technology professional focused on AI-assisted software development, product arc
 
 ## Currently Building
 
-- AI-powered SaaS applications
-- Workflow automation platforms
-- Enterprise software solutions
+AI-powered software platforms
+Workflow automation systems
+Scalable web applications
+Developer tools and productivity software
 
-## Tech
+## Current Learning
 
-Claude • ChatGPT • JavaScript • TypeScript • Python (Learning) • GitHub • HTML • CSS
+- Python
+- TypeScript
+- Software Architecture
+- AI Systems
+- Machine Learning Fundamentals
+
+Claude • ChatGPT • GitHub • JavaScript • TypeScript • Python (Learning) • HTML • CSS • REST APIs • JSON
+
+## Philosophy
+
+I enjoy exploring how AI can augment human creativity, improve software engineering workflows, and solve complex operational challenges through practical, well-designed systems.**
 -->
